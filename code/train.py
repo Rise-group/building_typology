@@ -183,8 +183,8 @@ def get_combined_generator(network, images_dir, csv_dir, csv_index, split, *args
 
                 # Get label from CSV
                 csv_attrs = dataframe.loc[image_name, :]
-                label = classes[csv_attrs['clase']]
-                csv_attrs = csv_attrs.drop(labels='clase')
+                label = classes[csv_attrs['class']]
+                csv_attrs = csv_attrs.drop(labels='class')
 
                 batch['images'].append(image)
                 batch['csv'].append(csv_attrs)
