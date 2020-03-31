@@ -1,7 +1,7 @@
-|            | Table   | Figure                   | Algorithm   |
-| ---------- | ------- | ------------------------ | ----------- |
-| 1_dataset  | Table 1 | Figure 5, Figure 6 (b,c) |             |
-| 2_training |         | Figure 7, Figure 8       | Algorithm 1 |
+|            | Table   | Figure                    | Algorithm   |
+| ---------- | ------- | ------------------------- | ----------- |
+| 1_dataset  | Table 1 | Figure 5, Figure 6 (B, C) |             |
+| 2_training |         | Figure 7, Figure 8        | Algorithm 1 |
 
 ## Folder: 1_dataset
 
@@ -13,14 +13,14 @@ Files:
 
 Dictionary of Variables:
 
-| Variable Name    | Description                                                                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| photo            | id for each image                                                                                                                                      |
-| longitude        | angular measurement from the prime meridian                                                                                                            |
-| latitude         | angular measurement from the equator line                                                                                                              |
-| typology         | typology is a clasification of the stuctures based on the main characteristics that defined it's strutural behaviour when is subjected to seismic load |
-| stories          | number of stories on each building                                                                                                                     |
-| economic_stratum | economic stratification of the building, ranging from lower-low(1), low(2), upper-low(3) medium(4), medium-high(5), high(6)                            |
+| Variable Name    | Description                                                                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| photo            | id for each image                                                                                                                        |
+| longitude        | longitude in decimal degrees WGS-84 coordinate system                                                                                    |
+| latitude         | latitude in decimal degrees WGS-84 coordinate system                                                                                     |
+| typology         | clasification of the stuctures based on the main characteristics that defined it's strutural behaviour when is subjected to seismic load |
+| stories          | number of stories on each building                                                                                                       |
+| economic_stratum | economic stratification of the building, ranging from lower-low(1), low(2), upper-low(3) medium(4), medium-high(5), high(6)              |
 
 ## Folder: 2_training
 
