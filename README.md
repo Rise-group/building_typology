@@ -1,4 +1,4 @@
-<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="right" width ="200" height="133">
+<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width ="200" height="133">
 
 
 Automatic detection of building typology using deep learning methods on street level images
