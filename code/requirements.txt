@@ -1,0 +1,12 @@
+pandas==1.0.1
+Keras==2.3.1
+tensorflow==2.1.0
+keras_metrics==1.1.0
+matplotlib==3.1.1
+seaborn==0.9.0
+imgaug==0.3.0
+scikit_image==0.16.2
+tqdm==4.36.1
+numpy==1.18.1
+scikit_learn==0.22.2.post1
+skimage==0.0
