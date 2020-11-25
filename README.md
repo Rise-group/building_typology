@@ -1,4 +1,7 @@
 <img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="mid" width ="200" height="133">
+<img src="figs/logo_rise_eafit.png" alt="RISE logo" align="mid" width ="200" height="133">
+<img src="figs/logoCAGE2.png" alt="CAGE UIS logo" align="mid" width ="200" height="133">
+
 
 
 Automatic detection of building typology using deep learning methods on street level images
