@@ -1,6 +1,6 @@
 pandas==1.0.1
 Keras==2.3.1
-tensorflow==2.1.0
+tensorflow==2.9.3
 keras_metrics==1.1.0
 matplotlib==3.1.1
 seaborn==0.9.0
